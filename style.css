@@ -124,7 +124,7 @@ nav ul li a:hover::after{
     margin: 20px 0 20px;
 }
 .tab-links{
-    margin-right: 100px;
+    margin-right: 10px;
     font-size: 25px;
     cursor: pointer;
     position: relative;
